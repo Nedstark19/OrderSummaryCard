@@ -1,2 +1,0 @@
-# OrderSummaryCard
-OrderSummaryCard
