@@ -24,7 +24,7 @@ Creating a Order Summary Page Card.
 
 ### Screenshot
 
-![](https://prnt.sc/1kbsgsk)
+![https://prnt.sc/1kbsgsk]()
 
 ## My process
 
@@ -42,7 +42,7 @@ CSS Flex and SVG adding through CSS
 ## Author
 
 
-- Twitter - [@yourusername](https://www.twitter.com/Samee02152022)
+- Twitter - [@sam](https://www.twitter.com/Samee02152022)
 
 ## Acknowledgments
 
