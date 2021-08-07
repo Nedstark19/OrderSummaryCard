@@ -17,7 +17,7 @@ main{
 }
 section{
     background: #fff;
-    height: 90vh;
+    max-height: 90vh;
     width: 450px;
     border-radius: 25px;
     display: flex;
