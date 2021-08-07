@@ -11,6 +11,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
+  - [Hosted](#host)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -38,6 +39,10 @@ Creating a Order Summary Page Card.
 ### What I learned
 
 CSS Flex and SVG adding through CSS
+
+### Hosted
+
+https://youthful-bassi-ebb773.netlify.app/
 
 ## Author
 
