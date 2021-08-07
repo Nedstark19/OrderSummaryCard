@@ -99,4 +99,12 @@ h1{
         background-repeat: no-repeat;
         background-color:  rgb(237, 236, 240);
     }
+    section{
+    background: #fff;
+    max-height: 90vh;
+    width: 375px;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+}
 }
