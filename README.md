@@ -25,7 +25,8 @@ Creating a Order Summary Page Card.
 
 ### Screenshot
 
-![https://prnt.sc/1kbsgsk]()
+![image](https://user-images.githubusercontent.com/71259998/128630321-7a3aba6a-3915-4a3f-8108-55fd960eaee0.png)
+
 
 ## My process
 
