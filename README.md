@@ -42,7 +42,7 @@ CSS Flex and SVG adding through CSS
 
 ### Hosted
 
-https://youthful-bassi-ebb773.netlify.app/
+[OrderSummary Live](https://tipcalculatorsamsite.netlify.app/)
 
 ## Author
 
